@@ -12,7 +12,6 @@ function setup(){
 
   // おまけ：神戸大学のロゴを作りたい人向けに色情報だけ置いておきます
   const red = color(196, 0, 0);
-  const blue = color(14, 47, 146);
-  const green = color(22, 131, 46);
+
   const gray = color(77);
 }
